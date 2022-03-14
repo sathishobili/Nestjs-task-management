@@ -1,7 +1,7 @@
 {
   "name": "task-management",
   "version": "0.0.1",
-  "description": "",
+  "description": "Sathish Obili learning NESTJS from Udemy",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
@@ -23,6 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^8.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
